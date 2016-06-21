@@ -1,3 +1,7 @@
+WARNING: This module is no longer suported, please use the country_zip
+module to get the same functionality plus other ones.
+
+
 trytond_party_country
 =====================
 
