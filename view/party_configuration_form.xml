@@ -2,7 +2,7 @@
 <!-- This file is part party_country module for Tryton.
 The COPYRIGHT file at the top level of this repository contains the full copyright notices and license terms. -->
 <data>
-    <xpath expr="/form/field[@name='party_lang']" position="after">
+    <xpath expr="/form" position="inside">
         <label name="default_country"/>
         <field name="default_country"/>
     </xpath>
